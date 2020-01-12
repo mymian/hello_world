@@ -2,4 +2,6 @@
 测试阶段使用
 
 
-printf("hello");
+text 1;
+text 2.
+text 3,
